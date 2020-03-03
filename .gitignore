@@ -51,6 +51,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 config.py
+api_keys.py
+api_key.py
 # Translations
 *.mo
 *.pot
